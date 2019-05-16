@@ -1,2 +1,2 @@
-# inverse_problem
-A simple example of inverse problem resolving
+# Inverse Problem
+A simple example of an inverse problem solving
